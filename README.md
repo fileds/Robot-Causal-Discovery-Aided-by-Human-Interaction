@@ -1,5 +1,7 @@
 # Robot Causal Discovery Aided by Human Interaction
-This is the GitHub for our paper titled Robot Causal Discovery Aided by Human Interaction.
+This is the GitHub for our paper titled Robot Causal Discovery Aided by Human Interaction. 
+
+Please do not share before a link to the publication is shown here.
 
 ## Supplementary material
 In the supplementary material you find extensive results from the simulation study.
