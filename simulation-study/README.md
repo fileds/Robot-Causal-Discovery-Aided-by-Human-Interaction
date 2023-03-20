@@ -9,4 +9,4 @@ To reproduce an example of the simulation study, in bash, run
 '''
 
 ## Full simulation study 
-For each BN in 
+See the script 
