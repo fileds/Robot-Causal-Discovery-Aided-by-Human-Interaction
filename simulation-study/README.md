@@ -9,4 +9,4 @@ To reproduce an example of the simulation study, in bash, run
 '''
 
 ## Full simulation study 
-See the script 
+See the script `full_study.sh`. Please note that the file is not intended for running on a personal computer as the simulation study takes a lot of time to complete when not parallelized.
