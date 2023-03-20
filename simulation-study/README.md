@@ -4,7 +4,7 @@ The simulation study was performed at [HPC2N](https://www.hpc2n.umu.se/). The R 
 ## Example
 To reproduce an example of the simulation study, in bash, run 
 
-'''bash
+'''
 . example.sh
 '''
 
