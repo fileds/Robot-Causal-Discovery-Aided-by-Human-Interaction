@@ -1,5 +1,7 @@
 # Simulation study
-The simulation study was performed at [HPC2N](https://www.hpc2n.umu.se/). The R scripts are therefore meant to be called from a bash terminal. 
+The simulation study was performed on the HPC at [HPC2N](https://www.hpc2n.umu.se/). Therefore the R scripts are meant to be called from a bash terminal. 
+
+This is the code used to generate the simulation study, completely unmodified, with the main purpose of repruducibility. Thus the commenting and structure of the code is not optimized for understanding. The intention is to upload a MWE of the main ideas behind the study in a separate folder.
 
 ## Example
 To reproduce an example of the simulation study, in bash, run 
