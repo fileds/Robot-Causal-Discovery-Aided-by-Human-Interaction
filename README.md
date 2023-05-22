@@ -6,5 +6,8 @@ Please do not share before a link to the publication is shown here.
 ## Supplementary material
 In the supplementary material you find extensive results from the simulation study.
 
+## Minimal Working Example
+A minimal werking example is avalable in the mwe folder.
+
 ## Simulation study
 In the simulation study you find whats necessary to reproduce the study. See separate README in the folder.
