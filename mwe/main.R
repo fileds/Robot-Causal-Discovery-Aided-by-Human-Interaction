@@ -3,6 +3,7 @@ library(bnlearn)
 library(dplyr)
 rm(list = ls())
 source("R/learners.R")
+source("R/utils.R")
 
 # Loading the ASIA data from bnlearn
 data(asia)
