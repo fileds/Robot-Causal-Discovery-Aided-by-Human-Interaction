@@ -6,8 +6,5 @@ Please do not share before a link to the publication is shown here.
 ## Supplementary material
 In the supplementary material you find extensive results from the simulation study.
 
-## Minimal Working Example
-A minimal werking example is avalable in the mwe folder.
-
-## Simulation study
-In the simulation study you find whats necessary to reproduce the study. See separate README in the folder.
+## Reproducibility
+A minimal working example is available in the `mwe` folder and the simulation study used to generate the data for the paper is available in `simulation-study`. See separate READMEs in the corresponding folders. To run the code with the correct packages and version use renv. For instructions on how to use renv, visit https://rstudio.github.io/renv/articles/renv.html .
