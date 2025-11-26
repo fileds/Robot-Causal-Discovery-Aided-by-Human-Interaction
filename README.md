@@ -1,7 +1,5 @@
 # Robot Causal Discovery Aided by Human Interaction
-This is the GitHub for our paper titled Robot Causal Discovery Aided by Human Interaction. 
-
-Please do not share before a link to the publication is shown here.
+This is the GitHub for our paper titled Robot Causal Discovery Aided by Human Interaction published at 2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). Paper can be accessed here: https://ieeexplore.ieee.org/document/10309376). 
 
 ## Supplementary material
 In the supplementary material you find extensive results from the simulation study.
